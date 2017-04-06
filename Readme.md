@@ -1,0 +1,1 @@
+This is the note repository while learning to use [LSTMVis](http://lstm.seas.harvard.edu/) 
